@@ -34,6 +34,7 @@ BIO/
 git clone https://github.com/username/BioSeq-Analyzer.git
 cd BioSeq-Analyzer
 pip install -r requirements.txt
+```
 
 
 ---
