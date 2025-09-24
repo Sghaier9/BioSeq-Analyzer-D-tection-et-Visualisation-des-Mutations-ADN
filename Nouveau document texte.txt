@@ -1,0 +1,45 @@
+🔧 Suggestions pour renforcer le projet :
+README :
+
+Explique : but du projet, comment l'exécuter, technologies utilisées
+
+Ajoute des images (exemples de sortie, diagrammes)
+
+Exemples de commande :
+
+bash
+Copy
+Edit
+python main.py --ref data/reference.fasta --sample data/sample.fasta
+Visualisation des mutations / séquences :
+
+Dans vision_utils.py, tu peux générer :
+
+Un alignement visuel (avec Matplotlib)
+
+Une carte de chaleur des mutations
+
+Un diagramme circulaire du contenu GC ou des ORFs
+
+Ajout d’un rapport automatique (PDF) :
+
+Génère un rapport (report.pdf) avec les résultats + graphiques
+
+Interface utilisateur (facultatif mais impactant) :
+
+Une petite interface Streamlit ou Tkinter avec :
+
+Upload des fichiers FASTA
+
+Bouton “Analyser”
+
+Résultats affichés à l’écran
+
+GitHub prêt à l’emploi :
+
+Ajoute une licence (MIT par ex)
+
+Crée un dépôt public avec bon nom (ex: Fasta-Analyzer-Visual)
+
+Lien dans ton CV ou Mon Master
+
