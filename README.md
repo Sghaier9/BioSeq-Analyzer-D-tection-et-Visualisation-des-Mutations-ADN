@@ -64,5 +64,4 @@ Le module `vision_utils.py` génère une **représentation graphique** des séqu
 # Auteur
 **Mohamed Aziz Sghaier**  
 📧 Email : sghaieraziz9@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/mohamed-aziz-sghaier
-)
+🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-aziz-sghaier-9a2a012b2/)
