@@ -1,4 +1,4 @@
-#  BioSeq Analyzer — Détection et Visualisation des Mutations ADN
+# 🧬 BioSeq Analyzer — Détection et Visualisation des Mutations ADN
 
 ##  Description du projet
 BioSeq Analyzer est un projet de bio-informatique en Python permettant :
@@ -64,4 +64,5 @@ Le module `vision_utils.py` génère une **représentation graphique** des séqu
 # Auteur
 **Mohamed Aziz Sghaier**  
 📧 Email : sghaieraziz9@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/username)
+🔗 [LinkedIn](www.linkedin.com/in/mohamed-aziz-sghaier
+)
