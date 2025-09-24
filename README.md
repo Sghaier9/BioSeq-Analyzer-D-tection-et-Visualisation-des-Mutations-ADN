@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ## Générer des séquences ADN aléatoires
 ```bash
 python generate_fasta.py
-
+```
 # Visualisation ADN
 
 Le module `vision_utils.py` génère une **représentation graphique** des séquences ADN et affiche les bases **A, T, G, C** avec des couleurs distinctes :
